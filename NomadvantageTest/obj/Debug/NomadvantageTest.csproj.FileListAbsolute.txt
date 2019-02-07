@@ -1,0 +1,12 @@
+C:\Users\sebei\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NomadvantageTest.exe.config
+C:\Users\sebei\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NomadvantageTest.exe
+C:\Users\sebei\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\NomadvantageTest.pdb
+C:\Users\sebei\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\NomadvantageTest.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\NomadvantageTest.exe
+C:\Users\sebei\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\NomadvantageTest.pdb
+C:\Users\sebei\source\repos\ConsoleApp1\NomadvantageTest\obj\Debug\NomadvantageTest.csproj.CoreCompileInputs.cache
+C:\Users\sebei\source\repos\ConsoleApp1\NomadvantageTest\obj\Debug\NomadvantageTest.exe
+C:\Users\sebei\source\repos\ConsoleApp1\NomadvantageTest\obj\Debug\NomadvantageTest.pdb
+C:\Users\sebei\source\repos\ConsoleApp1\NomadvantageTest\bin\Debug\NomadvantageTest.exe.config
+C:\Users\sebei\source\repos\ConsoleApp1\NomadvantageTest\bin\Debug\NomadvantageTest.exe
+C:\Users\sebei\source\repos\ConsoleApp1\NomadvantageTest\bin\Debug\NomadvantageTest.pdb
