@@ -40,7 +40,7 @@ namespace NomadvantageTest
         ///of a map.
         /// </summary>
         /// <param name="map">Map of elements</param>
-        private static void Printmap(int[,] map)
+        private void Printmap(int[,] map)
         {
             int nbColumns = map.GetLength(1);
             int nbRows = map.GetLength(0);
